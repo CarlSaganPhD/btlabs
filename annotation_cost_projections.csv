@@ -4,6 +4,6 @@ Classification,$0.08 ,$0.04 ,$0.02 ,5,Mobile Device,High,"$1,000,000,000 ",0.20%
 Cuboid,$0.00,$0.13,$0.02 ,4,Computer,High,"$1,000,000,000 ",0.20%,16667,6250
 Lines & Splines,$0.08 ,$0.80 ,$0.02 ,5,Computer,Medium,"$1,000,000,000 ",0.20%,16667,6250
 Landmark Points,$0.08 ,$0.40 ,$0.02 ,5,Computer,Medium,"$1,000,000,000 ",0.20%,16667,6250
-Transcription,$0.08 ,,$0.02 ,5,Computer,Medium,"$1,000,000,000 ",0.20%,16667,6250
+Transcription,$0.08 ,$0.00,$0.02 ,5,Computer,Medium,"$1,000,000,000 ",0.20%,16667,6250
 Polygon Annotation,$0.08 ,$0.80 ,$0.02 ,5,Computer,Medium,"$1,000,000,000 ",0.20%,16667,6250
 Segmentation,$6.40 ,$6.20 ,$0.02 ,5,Computer,Medium,"$1,000,000,000 ",0.20%,16667,6250
