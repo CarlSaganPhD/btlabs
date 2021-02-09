@@ -1,7 +1,7 @@
 ﻿Task,Scale AI Cost/Label,Procedural AI Cost/Label,BT Lab Cost,Skill Level,Workstation Requirement,BT Lab Alignment,Market Size,Projected BT Lab Market Share,BT Lab Jobs per Month (L3000),BT Lab Jobs per Month (L8000)
 Bounding Box,$0.08 ,$0.08 ,$0.02 ,4,Mobile Device,High,"$1,000,000,000 ",0.20%,16667,6250
 Classification,$0.08 ,$0.04 ,$0.02 ,5,Mobile Device,High,"$1,000,000,000 ",0.20%,16667,6250
-Cuboid,,$0.13 ,$0.02 ,4,Computer,High,"$1,000,000,000 ",0.20%,16667,6250
+Cuboid,$0.00,$0.13,$0.02 ,4,Computer,High,"$1,000,000,000 ",0.20%,16667,6250
 Lines & Splines,$0.08 ,$0.80 ,$0.02 ,5,Computer,Medium,"$1,000,000,000 ",0.20%,16667,6250
 Landmark Points,$0.08 ,$0.40 ,$0.02 ,5,Computer,Medium,"$1,000,000,000 ",0.20%,16667,6250
 Transcription,$0.08 ,,$0.02 ,5,Computer,Medium,"$1,000,000,000 ",0.20%,16667,6250
